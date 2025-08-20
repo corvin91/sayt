@@ -1,0 +1,36 @@
+footer{
+    background-color: black;
+    color: white;
+}
+.information{
+    background-color: #fff;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 602px;
+    height: 75px;
+    border-radius: 30px;
+}
+.information-fat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 79px;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 125px;
+    padding-bottom: 100px;
+}
+.rasm{
+    background-color: hsla(0, 54%, 31%, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 368px;
+    height: 332px;
+}
