@@ -1,11 +1,51 @@
-.traf{
+.trafalag-head{
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    justify-content: space-around;
+    padding-top: 27px;
+}
+ul{
+    display: flex;
     gap: 40px;
-    background-color: black;
-    padding-top: 40px;
-    padding-bottom: 20px;
-    color: #fff;
-
+}
+header{
+    background-color: hsla(32, 70%, 83%, 1);
+}
+.header-text{
+    display: flex;
+    flex-direction: column;
+    gap: 47px;
+    padding-bottom: 257px;
+    padding-top: 130px;
+}
+.header-bodybtn{
+    background-color: hsla(167, 84%, 25%, 1);
+    color: white;
+    width: 193px;
+    height: 51px;
+    border: none;
+    border-radius: 100px;
+}
+.header-body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-body-h1{
+    font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0px;
+}
+.cow-icon{
+    position: absolute;
+    bottom: 600px;
+    right: 600px;
+}
+.header-rigth{
+    position: absolute;
+    top: 176px;
+    left: 730px;
 }

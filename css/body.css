@@ -1,79 +1,20 @@
-section{
-    background-image: url("../img/Rectangle\ 2.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.postion{
-    background-color: white;
+.body-h11{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 620px;
-    height: 50px;
-    border-radius: 30px;
+    padding-top: 130px;
+    font-family: Roboto;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    text-align: center;
+    font-variant: small-caps
 }
-.postion-fat{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 37px;
-    padding-bottom: 79px;
-}
-.postion-h1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.body{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-.body-red{
+.body-div{
     display: flex;
     justify-content: space-around;
     align-items: center;
-}
-.body-red-div{
-    color: #fff;
-    background-color: red;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 237px;
-    height: 209px;
-    position: relative;
-    z-index: 1;
-}
-.body-red-div-orta{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: red;
-    color: #fff;
-    width: 411px;
-    height: 209px;
-    border-radius: 100px;
-    position: relative;
-    z-index: 1;
-}
-.body-green{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-    top: 50px;
-}
-.body-green-div{
-    color: red;
-    background-color: hsla(108, 100%, 49%, 1);
-    display: flex;
-    justify-content: center;
-    align-items: end;
-    width: 237px;
-    height: 209px;
-    position: relative;
-    bottom: 150px;
-    
+
 }

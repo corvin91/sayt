@@ -8,13 +8,10 @@
     list-style: none;
     font-family: "Rubik", sans-serif;
     text-decoration: none;
-    
 }
 
 .container {
     max-width: 100%;
     width: 85%;
-    margin: 0 auto;
-
-    
+    margin: 0 auto;    
 }
